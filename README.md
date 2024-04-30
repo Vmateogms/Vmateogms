@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V. Mateo</h1>
-<h3 align="center">A passionate app and web development studen from Spain</h3>
+<h3 align="center">A passionate app and web development student from Spain</h3>
 
 - 🎯 I´m interested in learning **Rust**
 
