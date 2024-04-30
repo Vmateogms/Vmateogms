@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java** And **SQL**
 
-- 🤝 I’m looking for help with **SQL**
+- 🤝 I’m looking for help with **WEB** **DESIGN**
 
 - 📫 How to reach me **vicentemateogarciamerino@gmail.com**
 
