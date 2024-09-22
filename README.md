@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm V. Mateo</h1>
 <h3 align="center">A passionate app and web development student from Spain</h3>
 
-- 🎯 I´m interested in learning **Rust**
+- 🎯 I´m interested in learning **React**
 
-- 🌱 I’m currently learning **Java** And **SQL**
+- 🌱 I’m currently learning **JavaScript** And **MySQL**
 
 - 🤝 I’m looking for help with **WEB** **DESIGN**
 
