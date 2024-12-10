@@ -7,8 +7,16 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vmateogms&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vmateogms&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vmateogms&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vmateogms&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vmateogms&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me:
+🎯 I´m interested in learning Python<br><br>🌱 I’m currently learning Angular And Spring<br><br>🤝 I’m looking for help with WEB DESIGN<br><br>📫 How to reach me vicentemateogarciamerino@gmail.com
+
+
+
+
+
 
