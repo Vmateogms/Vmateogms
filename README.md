@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I´m interested in learning Kotlin <br><br>🌱 I’m currently learning Angular And Spring<br><br>🤝 I’m looking for help with Cybersecurity<br><br>📫 How to reach me vicentemateogarciamerino@gmail.com
+📫 How to reach me vicentemateogarciamerino@gmail.com
 
 
 # 💻 Tech Stack:
