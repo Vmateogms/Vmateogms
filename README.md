@@ -11,9 +11,10 @@ Hi, I´m Mateo :)
 - Nmap
 
 # 📌 Featured Projects
-   # MonsterFinder [monsterfinder.com](https://monsterfinder.vmateogm.com)
+   # [monsterfinder.com](https://monsterfinder.vmateogm.com)
     Full stack web Application built with Angular + Spring Boot
-   #  AnaBaamondePortfolio [anabaamondeperez.com](https://anabaamondeperez.com)
+   # [anabaamondeperez.com](https://anabaamondeperez.com)
+    Photography portfolio website built with **Astro (SSR)** and a dynamic backend 
   
 # 🚧 Currently
       Working on new projects and improving existing ones
